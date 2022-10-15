@@ -1,0 +1,1381 @@
+[{
+    "employee": "George Washington",
+    "state": "SC",
+    "eventDate": "2022-01-01",
+    "amount": 23
+}, {
+    "employee": "George Washington",
+    "state": "GA",
+    "eventDate": "2021-03-01",
+    "amount": 28
+}, {
+    "employee": "George Washington",
+    "state": "NC",
+    "eventDate": "2021-05-01",
+    "amount": 80
+}, {
+    "employee": "George Washington",
+    "state": "AL",
+    "eventDate": "2022-06-01",
+    "amount": 119
+}, {
+    "employee": "George Washington",
+    "state": "TN",
+    "eventDate": "2021-05-01",
+    "amount": 84
+}, {
+    "employee": "George Washington",
+    "state": "FL",
+    "eventDate": "2022-06-01",
+    "amount": 208
+}, {
+    "employee": "John Adams",
+    "state": "SC",
+    "eventDate": "2022-03-01",
+    "amount": 276
+}, {
+    "employee": "John Adams",
+    "state": "GA",
+    "eventDate": "2022-09-01",
+    "amount": 58
+}, {
+    "employee": "John Adams",
+    "state": "NC",
+    "eventDate": "2022-01-01",
+    "amount": 158
+}, {
+    "employee": "John Adams",
+    "state": "AL",
+    "eventDate": "2022-09-01",
+    "amount": 102
+}, {
+    "employee": "John Adams",
+    "state": "TN",
+    "eventDate": "2022-04-01",
+    "amount": 52
+}, {
+    "employee": "John Adams",
+    "state": "FL",
+    "eventDate": "2022-06-01",
+    "amount": 274
+}, {
+    "employee": "Thomas Jefferson",
+    "state": "SC",
+    "eventDate": "2020-08-01",
+    "amount": 238
+}, {
+    "employee": "Thomas Jefferson",
+    "state": "GA",
+    "eventDate": "2020-02-01",
+    "amount": 70
+}, {
+    "employee": "Thomas Jefferson",
+    "state": "NC",
+    "eventDate": "2021-04-01",
+    "amount": 253
+}, {
+    "employee": "Thomas Jefferson",
+    "state": "AL",
+    "eventDate": "2021-01-01",
+    "amount": 185
+}, {
+    "employee": "Thomas Jefferson",
+    "state": "TN",
+    "eventDate": "2022-07-01",
+    "amount": 211
+}, {
+    "employee": "Thomas Jefferson",
+    "state": "FL",
+    "eventDate": "2022-04-01",
+    "amount": 66
+}, {
+    "employee": "James Madison",
+    "state": "SC",
+    "eventDate": "2020-06-01",
+    "amount": 180
+}, {
+    "employee": "James Madison",
+    "state": "GA",
+    "eventDate": "2022-09-01",
+    "amount": 90
+}, {
+    "employee": "James Madison",
+    "state": "NC",
+    "eventDate": "2021-07-01",
+    "amount": 119
+}, {
+    "employee": "James Madison",
+    "state": "AL",
+    "eventDate": "2021-03-01",
+    "amount": 277
+}, {
+    "employee": "James Madison",
+    "state": "TN",
+    "eventDate": "2022-03-01",
+    "amount": 161
+}, {
+    "employee": "James Madison",
+    "state": "FL",
+    "eventDate": "2020-02-01",
+    "amount": 181
+}, {
+    "employee": "James Monroe",
+    "state": "SC",
+    "eventDate": "2020-04-01",
+    "amount": 265
+}, {
+    "employee": "James Monroe",
+    "state": "GA",
+    "eventDate": "2021-02-01",
+    "amount": 172
+}, {
+    "employee": "James Monroe",
+    "state": "NC",
+    "eventDate": "2022-01-01",
+    "amount": 223
+}, {
+    "employee": "James Monroe",
+    "state": "AL",
+    "eventDate": "2021-01-01",
+    "amount": 79
+}, {
+    "employee": "James Monroe",
+    "state": "TN",
+    "eventDate": "2022-02-01",
+    "amount": 126
+}, {
+    "employee": "James Monroe",
+    "state": "FL",
+    "eventDate": "2020-09-01",
+    "amount": 33
+}, {
+    "employee": "John Quincy Adams",
+    "state": "SC",
+    "eventDate": "2022-08-01",
+    "amount": 235
+}, {
+    "employee": "John Quincy Adams",
+    "state": "GA",
+    "eventDate": "2021-03-01",
+    "amount": 97
+}, {
+    "employee": "John Quincy Adams",
+    "state": "NC",
+    "eventDate": "2021-08-01",
+    "amount": 15
+}, {
+    "employee": "John Quincy Adams",
+    "state": "AL",
+    "eventDate": "2021-04-01",
+    "amount": 178
+}, {
+    "employee": "John Quincy Adams",
+    "state": "TN",
+    "eventDate": "2021-05-01",
+    "amount": 207
+}, {
+    "employee": "John Quincy Adams",
+    "state": "FL",
+    "eventDate": "2022-06-01",
+    "amount": 90
+}, {
+    "employee": "Andrew Jackson",
+    "state": "SC",
+    "eventDate": "2022-01-01",
+    "amount": 243
+}, {
+    "employee": "Andrew Jackson",
+    "state": "GA",
+    "eventDate": "2021-05-01",
+    "amount": 29
+}, {
+    "employee": "Andrew Jackson",
+    "state": "NC",
+    "eventDate": "2022-09-01",
+    "amount": 9
+}, {
+    "employee": "Andrew Jackson",
+    "state": "AL",
+    "eventDate": "2022-08-01",
+    "amount": 188
+}, {
+    "employee": "Andrew Jackson",
+    "state": "TN",
+    "eventDate": "2020-09-01",
+    "amount": 219
+}, {
+    "employee": "Andrew Jackson",
+    "state": "FL",
+    "eventDate": "2021-03-01",
+    "amount": 37
+}, {
+    "employee": "Martin Van Buren",
+    "state": "SC",
+    "eventDate": "2022-09-01",
+    "amount": 194
+}, {
+    "employee": "Martin Van Buren",
+    "state": "GA",
+    "eventDate": "2021-09-01",
+    "amount": 171
+}, {
+    "employee": "Martin Van Buren",
+    "state": "NC",
+    "eventDate": "2020-04-01",
+    "amount": 142
+}, {
+    "employee": "Martin Van Buren",
+    "state": "AL",
+    "eventDate": "2020-01-01",
+    "amount": 228
+}, {
+    "employee": "Martin Van Buren",
+    "state": "TN",
+    "eventDate": "2020-06-01",
+    "amount": 248
+}, {
+    "employee": "Martin Van Buren",
+    "state": "FL",
+    "eventDate": "2022-07-01",
+    "amount": 96
+}, {
+    "employee": "William Henry Harrison",
+    "state": "SC",
+    "eventDate": "2020-08-01",
+    "amount": 197
+}, {
+    "employee": "William Henry Harrison",
+    "state": "GA",
+    "eventDate": "2022-04-01",
+    "amount": 249
+}, {
+    "employee": "William Henry Harrison",
+    "state": "NC",
+    "eventDate": "2020-09-01",
+    "amount": 144
+}, {
+    "employee": "William Henry Harrison",
+    "state": "AL",
+    "eventDate": "2022-03-01",
+    "amount": 58
+}, {
+    "employee": "William Henry Harrison",
+    "state": "TN",
+    "eventDate": "2020-06-01",
+    "amount": 8
+}, {
+    "employee": "William Henry Harrison",
+    "state": "FL",
+    "eventDate": "2021-02-01",
+    "amount": 44
+}, {
+    "employee": "John Tyler",
+    "state": "SC",
+    "eventDate": "2020-02-01",
+    "amount": 28
+}, {
+    "employee": "John Tyler",
+    "state": "GA",
+    "eventDate": "2021-01-01",
+    "amount": 144
+}, {
+    "employee": "John Tyler",
+    "state": "NC",
+    "eventDate": "2020-08-01",
+    "amount": 194
+}, {
+    "employee": "John Tyler",
+    "state": "AL",
+    "eventDate": "2021-06-01",
+    "amount": 217
+}, {
+    "employee": "John Tyler",
+    "state": "TN",
+    "eventDate": "2022-02-01",
+    "amount": 37
+}, {
+    "employee": "John Tyler",
+    "state": "FL",
+    "eventDate": "2022-07-01",
+    "amount": 137
+}, {
+    "employee": "James Polk",
+    "state": "SC",
+    "eventDate": "2022-08-01",
+    "amount": 288
+}, {
+    "employee": "James Polk",
+    "state": "GA",
+    "eventDate": "2022-07-01",
+    "amount": 121
+}, {
+    "employee": "James Polk",
+    "state": "NC",
+    "eventDate": "2022-09-01",
+    "amount": 76
+}, {
+    "employee": "James Polk",
+    "state": "AL",
+    "eventDate": "2020-09-01",
+    "amount": 175
+}, {
+    "employee": "James Polk",
+    "state": "TN",
+    "eventDate": "2022-03-01",
+    "amount": 65
+}, {
+    "employee": "James Polk",
+    "state": "FL",
+    "eventDate": "2020-04-01",
+    "amount": 215
+}, {
+    "employee": "Zachary Taylor",
+    "state": "SC",
+    "eventDate": "2021-05-01",
+    "amount": 128
+}, {
+    "employee": "Zachary Taylor",
+    "state": "GA",
+    "eventDate": "2022-07-01",
+    "amount": 224
+}, {
+    "employee": "Zachary Taylor",
+    "state": "NC",
+    "eventDate": "2022-08-01",
+    "amount": 253
+}, {
+    "employee": "Zachary Taylor",
+    "state": "AL",
+    "eventDate": "2021-04-01",
+    "amount": 192
+}, {
+    "employee": "Zachary Taylor",
+    "state": "TN",
+    "eventDate": "2020-02-01",
+    "amount": 59
+}, {
+    "employee": "Zachary Taylor",
+    "state": "FL",
+    "eventDate": "2022-08-01",
+    "amount": 236
+}, {
+    "employee": "Millard Fillmore",
+    "state": "SC",
+    "eventDate": "2022-02-01",
+    "amount": 67
+}, {
+    "employee": "Millard Fillmore",
+    "state": "GA",
+    "eventDate": "2020-03-01",
+    "amount": 238
+}, {
+    "employee": "Millard Fillmore",
+    "state": "NC",
+    "eventDate": "2021-06-01",
+    "amount": 150
+}, {
+    "employee": "Millard Fillmore",
+    "state": "AL",
+    "eventDate": "2021-01-01",
+    "amount": 36
+}, {
+    "employee": "Millard Fillmore",
+    "state": "TN",
+    "eventDate": "2020-08-01",
+    "amount": 256
+}, {
+    "employee": "Millard Fillmore",
+    "state": "FL",
+    "eventDate": "2022-04-01",
+    "amount": 123
+}, {
+    "employee": "Franklin Pierce",
+    "state": "SC",
+    "eventDate": "2022-06-01",
+    "amount": 69
+}, {
+    "employee": "Franklin Pierce",
+    "state": "GA",
+    "eventDate": "2021-07-01",
+    "amount": 133
+}, {
+    "employee": "Franklin Pierce",
+    "state": "NC",
+    "eventDate": "2021-02-01",
+    "amount": 75
+}, {
+    "employee": "Franklin Pierce",
+    "state": "AL",
+    "eventDate": "2020-09-01",
+    "amount": 175
+}, {
+    "employee": "Franklin Pierce",
+    "state": "TN",
+    "eventDate": "2022-05-01",
+    "amount": 226
+}, {
+    "employee": "Franklin Pierce",
+    "state": "FL",
+    "eventDate": "2020-08-01",
+    "amount": 206
+}, {
+    "employee": "James Buchanan",
+    "state": "SC",
+    "eventDate": "2021-05-01",
+    "amount": 8
+}, {
+    "employee": "James Buchanan",
+    "state": "GA",
+    "eventDate": "2020-08-01",
+    "amount": 31
+}, {
+    "employee": "James Buchanan",
+    "state": "NC",
+    "eventDate": "2021-06-01",
+    "amount": 134
+}, {
+    "employee": "James Buchanan",
+    "state": "AL",
+    "eventDate": "2020-06-01",
+    "amount": 73
+}, {
+    "employee": "James Buchanan",
+    "state": "TN",
+    "eventDate": "2020-06-01",
+    "amount": 261
+}, {
+    "employee": "James Buchanan",
+    "state": "FL",
+    "eventDate": "2020-06-01",
+    "amount": 114
+}, {
+    "employee": "Abraham Lincoln",
+    "state": "SC",
+    "eventDate": "2020-02-01",
+    "amount": 277
+}, {
+    "employee": "Abraham Lincoln",
+    "state": "GA",
+    "eventDate": "2021-04-01",
+    "amount": 157
+}, {
+    "employee": "Abraham Lincoln",
+    "state": "NC",
+    "eventDate": "2020-03-01",
+    "amount": 14
+}, {
+    "employee": "Abraham Lincoln",
+    "state": "AL",
+    "eventDate": "2021-06-01",
+    "amount": 273
+}, {
+    "employee": "Abraham Lincoln",
+    "state": "TN",
+    "eventDate": "2020-02-01",
+    "amount": 193
+}, {
+    "employee": "Abraham Lincoln",
+    "state": "FL",
+    "eventDate": "2021-09-01",
+    "amount": 223
+}, {
+    "employee": "Andrew Johnson",
+    "state": "SC",
+    "eventDate": "2022-01-01",
+    "amount": 300
+}, {
+    "employee": "Andrew Johnson",
+    "state": "GA",
+    "eventDate": "2021-03-01",
+    "amount": 267
+}, {
+    "employee": "Andrew Johnson",
+    "state": "NC",
+    "eventDate": "2022-04-01",
+    "amount": 108
+}, {
+    "employee": "Andrew Johnson",
+    "state": "AL",
+    "eventDate": "2021-08-01",
+    "amount": 76
+}, {
+    "employee": "Andrew Johnson",
+    "state": "TN",
+    "eventDate": "2020-05-01",
+    "amount": 133
+}, {
+    "employee": "Andrew Johnson",
+    "state": "FL",
+    "eventDate": "2021-03-01",
+    "amount": 222
+}, {
+    "employee": "Ulysses S. Grant",
+    "state": "SC",
+    "eventDate": "2021-08-01",
+    "amount": 168
+}, {
+    "employee": "Ulysses S. Grant",
+    "state": "GA",
+    "eventDate": "2021-03-01",
+    "amount": 111
+}, {
+    "employee": "Ulysses S. Grant",
+    "state": "NC",
+    "eventDate": "2021-02-01",
+    "amount": 161
+}, {
+    "employee": "Ulysses S. Grant",
+    "state": "AL",
+    "eventDate": "2020-08-01",
+    "amount": 58
+}, {
+    "employee": "Ulysses S. Grant",
+    "state": "TN",
+    "eventDate": "2022-06-01",
+    "amount": 211
+}, {
+    "employee": "Ulysses S. Grant",
+    "state": "FL",
+    "eventDate": "2020-08-01",
+    "amount": 275
+}, {
+    "employee": "Rutherford B. Hayes",
+    "state": "SC",
+    "eventDate": "2020-09-01",
+    "amount": 18
+}, {
+    "employee": "Rutherford B. Hayes",
+    "state": "GA",
+    "eventDate": "2021-02-01",
+    "amount": 73
+}, {
+    "employee": "Rutherford B. Hayes",
+    "state": "NC",
+    "eventDate": "2021-02-01",
+    "amount": 132
+}, {
+    "employee": "Rutherford B. Hayes",
+    "state": "AL",
+    "eventDate": "2020-01-01",
+    "amount": 87
+}, {
+    "employee": "Rutherford B. Hayes",
+    "state": "TN",
+    "eventDate": "2022-08-01",
+    "amount": 277
+}, {
+    "employee": "Rutherford B. Hayes",
+    "state": "FL",
+    "eventDate": "2021-07-01",
+    "amount": 277
+}, {
+    "employee": "James Garfield",
+    "state": "SC",
+    "eventDate": "2020-08-01",
+    "amount": 115
+}, {
+    "employee": "James Garfield",
+    "state": "GA",
+    "eventDate": "2022-05-01",
+    "amount": 300
+}, {
+    "employee": "James Garfield",
+    "state": "NC",
+    "eventDate": "2021-02-01",
+    "amount": 182
+}, {
+    "employee": "James Garfield",
+    "state": "AL",
+    "eventDate": "2021-06-01",
+    "amount": 284
+}, {
+    "employee": "James Garfield",
+    "state": "TN",
+    "eventDate": "2021-03-01",
+    "amount": 76
+}, {
+    "employee": "James Garfield",
+    "state": "FL",
+    "eventDate": "2022-09-01",
+    "amount": 299
+}, {
+    "employee": "Chester Arthur",
+    "state": "SC",
+    "eventDate": "2021-04-01",
+    "amount": 84
+}, {
+    "employee": "Chester Arthur",
+    "state": "GA",
+    "eventDate": "2022-04-01",
+    "amount": 115
+}, {
+    "employee": "Chester Arthur",
+    "state": "NC",
+    "eventDate": "2022-01-01",
+    "amount": 242
+}, {
+    "employee": "Chester Arthur",
+    "state": "AL",
+    "eventDate": "2020-08-01",
+    "amount": 202
+}, {
+    "employee": "Chester Arthur",
+    "state": "TN",
+    "eventDate": "2020-07-01",
+    "amount": 66
+}, {
+    "employee": "Chester Arthur",
+    "state": "FL",
+    "eventDate": "2021-02-01",
+    "amount": 128
+}, {
+    "employee": "Grover Cleveland",
+    "state": "SC",
+    "eventDate": "2021-01-01",
+    "amount": 73
+}, {
+    "employee": "Grover Cleveland",
+    "state": "GA",
+    "eventDate": "2020-06-01",
+    "amount": 109
+}, {
+    "employee": "Grover Cleveland",
+    "state": "NC",
+    "eventDate": "2020-08-01",
+    "amount": 69
+}, {
+    "employee": "Grover Cleveland",
+    "state": "AL",
+    "eventDate": "2021-04-01",
+    "amount": 48
+}, {
+    "employee": "Grover Cleveland",
+    "state": "TN",
+    "eventDate": "2022-08-01",
+    "amount": 163
+}, {
+    "employee": "Grover Cleveland",
+    "state": "FL",
+    "eventDate": "2020-02-01",
+    "amount": 235
+}, {
+    "employee": "Benjamin Harrison",
+    "state": "SC",
+    "eventDate": "2020-06-01",
+    "amount": 133
+}, {
+    "employee": "Benjamin Harrison",
+    "state": "GA",
+    "eventDate": "2022-05-01",
+    "amount": 55
+}, {
+    "employee": "Benjamin Harrison",
+    "state": "NC",
+    "eventDate": "2021-09-01",
+    "amount": 90
+}, {
+    "employee": "Benjamin Harrison",
+    "state": "AL",
+    "eventDate": "2021-05-01",
+    "amount": 87
+}, {
+    "employee": "Benjamin Harrison",
+    "state": "TN",
+    "eventDate": "2020-02-01",
+    "amount": 66
+}, {
+    "employee": "Benjamin Harrison",
+    "state": "FL",
+    "eventDate": "2020-07-01",
+    "amount": 236
+}, {
+    "employee": "Grover Cleveland",
+    "state": "SC",
+    "eventDate": "2022-01-01",
+    "amount": 272
+}, {
+    "employee": "Grover Cleveland",
+    "state": "GA",
+    "eventDate": "2021-06-01",
+    "amount": 237
+}, {
+    "employee": "Grover Cleveland",
+    "state": "NC",
+    "eventDate": "2022-03-01",
+    "amount": 134
+}, {
+    "employee": "Grover Cleveland",
+    "state": "AL",
+    "eventDate": "2021-08-01",
+    "amount": 47
+}, {
+    "employee": "Grover Cleveland",
+    "state": "TN",
+    "eventDate": "2021-03-01",
+    "amount": 7
+}, {
+    "employee": "Grover Cleveland",
+    "state": "FL",
+    "eventDate": "2021-02-01",
+    "amount": 125
+}, {
+    "employee": "William McKinley",
+    "state": "SC",
+    "eventDate": "2020-02-01",
+    "amount": 66
+}, {
+    "employee": "William McKinley",
+    "state": "GA",
+    "eventDate": "2020-04-01",
+    "amount": 271
+}, {
+    "employee": "William McKinley",
+    "state": "NC",
+    "eventDate": "2020-05-01",
+    "amount": 284
+}, {
+    "employee": "William McKinley",
+    "state": "AL",
+    "eventDate": "2021-08-01",
+    "amount": 42
+}, {
+    "employee": "William McKinley",
+    "state": "TN",
+    "eventDate": "2021-05-01",
+    "amount": 3
+}, {
+    "employee": "William McKinley",
+    "state": "FL",
+    "eventDate": "2021-01-01",
+    "amount": 41
+}, {
+    "employee": "Theodore Roosevelt",
+    "state": "SC",
+    "eventDate": "2021-07-01",
+    "amount": 153
+}, {
+    "employee": "Theodore Roosevelt",
+    "state": "GA",
+    "eventDate": "2022-01-01",
+    "amount": 266
+}, {
+    "employee": "Theodore Roosevelt",
+    "state": "NC",
+    "eventDate": "2020-02-01",
+    "amount": 264
+}, {
+    "employee": "Theodore Roosevelt",
+    "state": "AL",
+    "eventDate": "2021-09-01",
+    "amount": 189
+}, {
+    "employee": "Theodore Roosevelt",
+    "state": "TN",
+    "eventDate": "2020-06-01",
+    "amount": 295
+}, {
+    "employee": "Theodore Roosevelt",
+    "state": "FL",
+    "eventDate": "2021-02-01",
+    "amount": 168
+}, {
+    "employee": "William H. Taft",
+    "state": "SC",
+    "eventDate": "2020-05-01",
+    "amount": 196
+}, {
+    "employee": "William H. Taft",
+    "state": "GA",
+    "eventDate": "2021-07-01",
+    "amount": 234
+}, {
+    "employee": "William H. Taft",
+    "state": "NC",
+    "eventDate": "2021-06-01",
+    "amount": 297
+}, {
+    "employee": "William H. Taft",
+    "state": "AL",
+    "eventDate": "2022-03-01",
+    "amount": 277
+}, {
+    "employee": "William H. Taft",
+    "state": "TN",
+    "eventDate": "2020-03-01",
+    "amount": 202
+}, {
+    "employee": "William H. Taft",
+    "state": "FL",
+    "eventDate": "2021-08-01",
+    "amount": 165
+}, {
+    "employee": "Woodrow Wilson",
+    "state": "SC",
+    "eventDate": "2021-09-01",
+    "amount": 171
+}, {
+    "employee": "Woodrow Wilson",
+    "state": "GA",
+    "eventDate": "2021-02-01",
+    "amount": 59
+}, {
+    "employee": "Woodrow Wilson",
+    "state": "NC",
+    "eventDate": "2022-08-01",
+    "amount": 136
+}, {
+    "employee": "Woodrow Wilson",
+    "state": "AL",
+    "eventDate": "2022-01-01",
+    "amount": 268
+}, {
+    "employee": "Woodrow Wilson",
+    "state": "TN",
+    "eventDate": "2020-07-01",
+    "amount": 290
+}, {
+    "employee": "Woodrow Wilson",
+    "state": "FL",
+    "eventDate": "2021-05-01",
+    "amount": 190
+}, {
+    "employee": "Warren Harding",
+    "state": "SC",
+    "eventDate": "2022-05-01",
+    "amount": 3
+}, {
+    "employee": "Warren Harding",
+    "state": "GA",
+    "eventDate": "2021-09-01",
+    "amount": 297
+}, {
+    "employee": "Warren Harding",
+    "state": "NC",
+    "eventDate": "2021-06-01",
+    "amount": 285
+}, {
+    "employee": "Warren Harding",
+    "state": "AL",
+    "eventDate": "2020-01-01",
+    "amount": 86
+}, {
+    "employee": "Warren Harding",
+    "state": "TN",
+    "eventDate": "2022-01-01",
+    "amount": 220
+}, {
+    "employee": "Warren Harding",
+    "state": "FL",
+    "eventDate": "2021-07-01",
+    "amount": 75
+}, {
+    "employee": "Calvin Coolidge",
+    "state": "SC",
+    "eventDate": "2022-02-01",
+    "amount": 45
+}, {
+    "employee": "Calvin Coolidge",
+    "state": "GA",
+    "eventDate": "2021-06-01",
+    "amount": 233
+}, {
+    "employee": "Calvin Coolidge",
+    "state": "NC",
+    "eventDate": "2020-08-01",
+    "amount": 84
+}, {
+    "employee": "Calvin Coolidge",
+    "state": "AL",
+    "eventDate": "2021-07-01",
+    "amount": 109
+}, {
+    "employee": "Calvin Coolidge",
+    "state": "TN",
+    "eventDate": "2020-03-01",
+    "amount": 95
+}, {
+    "employee": "Calvin Coolidge",
+    "state": "FL",
+    "eventDate": "2022-05-01",
+    "amount": 2
+}, {
+    "employee": "Herbert Hoover",
+    "state": "SC",
+    "eventDate": "2022-01-01",
+    "amount": 219
+}, {
+    "employee": "Herbert Hoover",
+    "state": "GA",
+    "eventDate": "2021-02-01",
+    "amount": 99
+}, {
+    "employee": "Herbert Hoover",
+    "state": "NC",
+    "eventDate": "2020-09-01",
+    "amount": 195
+}, {
+    "employee": "Herbert Hoover",
+    "state": "AL",
+    "eventDate": "2022-01-01",
+    "amount": 44
+}, {
+    "employee": "Herbert Hoover",
+    "state": "TN",
+    "eventDate": "2022-02-01",
+    "amount": 261
+}, {
+    "employee": "Herbert Hoover",
+    "state": "FL",
+    "eventDate": "2020-04-01",
+    "amount": 27
+}, {
+    "employee": "Franklin D. Roosevelt",
+    "state": "SC",
+    "eventDate": "2020-01-01",
+    "amount": 165
+}, {
+    "employee": "Franklin D. Roosevelt",
+    "state": "GA",
+    "eventDate": "2020-08-01",
+    "amount": 30
+}, {
+    "employee": "Franklin D. Roosevelt",
+    "state": "NC",
+    "eventDate": "2021-02-01",
+    "amount": 156
+}, {
+    "employee": "Franklin D. Roosevelt",
+    "state": "AL",
+    "eventDate": "2022-08-01",
+    "amount": 221
+}, {
+    "employee": "Franklin D. Roosevelt",
+    "state": "TN",
+    "eventDate": "2020-09-01",
+    "amount": 87
+}, {
+    "employee": "Franklin D. Roosevelt",
+    "state": "FL",
+    "eventDate": "2021-02-01",
+    "amount": 78
+}, {
+    "employee": "Harry S. Truman",
+    "state": "SC",
+    "eventDate": "2022-06-01",
+    "amount": 264
+}, {
+    "employee": "Harry S. Truman",
+    "state": "GA",
+    "eventDate": "2020-03-01",
+    "amount": 178
+}, {
+    "employee": "Harry S. Truman",
+    "state": "NC",
+    "eventDate": "2022-04-01",
+    "amount": 111
+}, {
+    "employee": "Harry S. Truman",
+    "state": "AL",
+    "eventDate": "2021-01-01",
+    "amount": 166
+}, {
+    "employee": "Harry S. Truman",
+    "state": "TN",
+    "eventDate": "2021-02-01",
+    "amount": 26
+}, {
+    "employee": "Harry S. Truman",
+    "state": "FL",
+    "eventDate": "2021-08-01",
+    "amount": 214
+}, {
+    "employee": "Dwight Eisenhower",
+    "state": "SC",
+    "eventDate": "2020-07-01",
+    "amount": 267
+}, {
+    "employee": "Dwight Eisenhower",
+    "state": "GA",
+    "eventDate": "2020-05-01",
+    "amount": 123
+}, {
+    "employee": "Dwight Eisenhower",
+    "state": "NC",
+    "eventDate": "2021-02-01",
+    "amount": 87
+}, {
+    "employee": "Dwight Eisenhower",
+    "state": "AL",
+    "eventDate": "2021-06-01",
+    "amount": 240
+}, {
+    "employee": "Dwight Eisenhower",
+    "state": "TN",
+    "eventDate": "2020-05-01",
+    "amount": 185
+}, {
+    "employee": "Dwight Eisenhower",
+    "state": "FL",
+    "eventDate": "2021-05-01",
+    "amount": 212
+}, {
+    "employee": "John F. Kennedy",
+    "state": "SC",
+    "eventDate": "2021-01-01",
+    "amount": 244
+}, {
+    "employee": "John F. Kennedy",
+    "state": "GA",
+    "eventDate": "2021-06-01",
+    "amount": 28
+}, {
+    "employee": "John F. Kennedy",
+    "state": "NC",
+    "eventDate": "2022-06-01",
+    "amount": 95
+}, {
+    "employee": "John F. Kennedy",
+    "state": "AL",
+    "eventDate": "2021-05-01",
+    "amount": 110
+}, {
+    "employee": "John F. Kennedy",
+    "state": "TN",
+    "eventDate": "2022-04-01",
+    "amount": 175
+}, {
+    "employee": "John F. Kennedy",
+    "state": "FL",
+    "eventDate": "2020-08-01",
+    "amount": 300
+}, {
+    "employee": "Lyndon Johnson",
+    "state": "SC",
+    "eventDate": "2020-08-01",
+    "amount": 224
+}, {
+    "employee": "Lyndon Johnson",
+    "state": "GA",
+    "eventDate": "2021-01-01",
+    "amount": 69
+}, {
+    "employee": "Lyndon Johnson",
+    "state": "NC",
+    "eventDate": "2020-03-01",
+    "amount": 164
+}, {
+    "employee": "Lyndon Johnson",
+    "state": "AL",
+    "eventDate": "2022-08-01",
+    "amount": 81
+}, {
+    "employee": "Lyndon Johnson",
+    "state": "TN",
+    "eventDate": "2021-03-01",
+    "amount": 181
+}, {
+    "employee": "Lyndon Johnson",
+    "state": "FL",
+    "eventDate": "2020-07-01",
+    "amount": 131
+}, {
+    "employee": "Richard Nixon",
+    "state": "SC",
+    "eventDate": "2021-09-01",
+    "amount": 212
+}, {
+    "employee": "Richard Nixon",
+    "state": "GA",
+    "eventDate": "2020-04-01",
+    "amount": 193
+}, {
+    "employee": "Richard Nixon",
+    "state": "NC",
+    "eventDate": "2022-09-01",
+    "amount": 7
+}, {
+    "employee": "Richard Nixon",
+    "state": "AL",
+    "eventDate": "2022-01-01",
+    "amount": 18
+}, {
+    "employee": "Richard Nixon",
+    "state": "TN",
+    "eventDate": "2021-01-01",
+    "amount": 230
+}, {
+    "employee": "Richard Nixon",
+    "state": "FL",
+    "eventDate": "2022-02-01",
+    "amount": 6
+}, {
+    "employee": "Gerald Ford",
+    "state": "SC",
+    "eventDate": "2021-02-01",
+    "amount": 281
+}, {
+    "employee": "Gerald Ford",
+    "state": "GA",
+    "eventDate": "2021-01-01",
+    "amount": 184
+}, {
+    "employee": "Gerald Ford",
+    "state": "NC",
+    "eventDate": "2020-09-01",
+    "amount": 17
+}, {
+    "employee": "Gerald Ford",
+    "state": "AL",
+    "eventDate": "2022-01-01",
+    "amount": 173
+}, {
+    "employee": "Gerald Ford",
+    "state": "TN",
+    "eventDate": "2022-06-01",
+    "amount": 124
+}, {
+    "employee": "Gerald Ford",
+    "state": "FL",
+    "eventDate": "2020-02-01",
+    "amount": 133
+}, {
+    "employee": "Jimmy Carter",
+    "state": "SC",
+    "eventDate": "2022-07-01",
+    "amount": 218
+}, {
+    "employee": "Jimmy Carter",
+    "state": "GA",
+    "eventDate": "2022-02-01",
+    "amount": 206
+}, {
+    "employee": "Jimmy Carter",
+    "state": "NC",
+    "eventDate": "2022-01-01",
+    "amount": 281
+}, {
+    "employee": "Jimmy Carter",
+    "state": "AL",
+    "eventDate": "2021-01-01",
+    "amount": 16
+}, {
+    "employee": "Jimmy Carter",
+    "state": "TN",
+    "eventDate": "2021-06-01",
+    "amount": 278
+}, {
+    "employee": "Jimmy Carter",
+    "state": "FL",
+    "eventDate": "2021-09-01",
+    "amount": 281
+}, {
+    "employee": "Ronald Reagan",
+    "state": "SC",
+    "eventDate": "2020-05-01",
+    "amount": 252
+}, {
+    "employee": "Ronald Reagan",
+    "state": "GA",
+    "eventDate": "2020-04-01",
+    "amount": 34
+}, {
+    "employee": "Ronald Reagan",
+    "state": "NC",
+    "eventDate": "2021-07-01",
+    "amount": 97
+}, {
+    "employee": "Ronald Reagan",
+    "state": "AL",
+    "eventDate": "2021-06-01",
+    "amount": 223
+}, {
+    "employee": "Ronald Reagan",
+    "state": "TN",
+    "eventDate": "2022-05-01",
+    "amount": 282
+}, {
+    "employee": "Ronald Reagan",
+    "state": "FL",
+    "eventDate": "2021-09-01",
+    "amount": 232
+}, {
+    "employee": "George H. W. Bush",
+    "state": "SC",
+    "eventDate": "2022-01-01",
+    "amount": 7
+}, {
+    "employee": "George H. W. Bush",
+    "state": "GA",
+    "eventDate": "2021-07-01",
+    "amount": 83
+}, {
+    "employee": "George H. W. Bush",
+    "state": "NC",
+    "eventDate": "2022-04-01",
+    "amount": 141
+}, {
+    "employee": "George H. W. Bush",
+    "state": "AL",
+    "eventDate": "2021-09-01",
+    "amount": 127
+}, {
+    "employee": "George H. W. Bush",
+    "state": "TN",
+    "eventDate": "2021-06-01",
+    "amount": 57
+}, {
+    "employee": "George H. W. Bush",
+    "state": "FL",
+    "eventDate": "2020-01-01",
+    "amount": 161
+}, {
+    "employee": "William J. Clinton",
+    "state": "SC",
+    "eventDate": "2020-02-01",
+    "amount": 182
+}, {
+    "employee": "William J. Clinton",
+    "state": "GA",
+    "eventDate": "2022-09-01",
+    "amount": 30
+}, {
+    "employee": "William J. Clinton",
+    "state": "NC",
+    "eventDate": "2021-05-01",
+    "amount": 186
+}, {
+    "employee": "William J. Clinton",
+    "state": "AL",
+    "eventDate": "2022-03-01",
+    "amount": 143
+}, {
+    "employee": "William J. Clinton",
+    "state": "TN",
+    "eventDate": "2021-03-01",
+    "amount": 254
+}, {
+    "employee": "William J. Clinton",
+    "state": "FL",
+    "eventDate": "2021-02-01",
+    "amount": 58
+}, {
+    "employee": "George W. Bush",
+    "state": "SC",
+    "eventDate": "2020-01-01",
+    "amount": 35
+}, {
+    "employee": "George W. Bush",
+    "state": "GA",
+    "eventDate": "2022-01-01",
+    "amount": 277
+}, {
+    "employee": "George W. Bush",
+    "state": "NC",
+    "eventDate": "2020-09-01",
+    "amount": 265
+}, {
+    "employee": "George W. Bush",
+    "state": "AL",
+    "eventDate": "2022-03-01",
+    "amount": 190
+}, {
+    "employee": "George W. Bush",
+    "state": "TN",
+    "eventDate": "2020-05-01",
+    "amount": 61
+}, {
+    "employee": "George W. Bush",
+    "state": "FL",
+    "eventDate": "2020-05-01",
+    "amount": 21
+}, {
+    "employee": "Barack Obama",
+    "state": "SC",
+    "eventDate": "2020-06-01",
+    "amount": 106
+}, {
+    "employee": "Barack Obama",
+    "state": "GA",
+    "eventDate": "2021-01-01",
+    "amount": 66
+}, {
+    "employee": "Barack Obama",
+    "state": "NC",
+    "eventDate": "2022-09-01",
+    "amount": 32
+}, {
+    "employee": "Barack Obama",
+    "state": "AL",
+    "eventDate": "2020-04-01",
+    "amount": 240
+}, {
+    "employee": "Barack Obama",
+    "state": "TN",
+    "eventDate": "2021-05-01",
+    "amount": 73
+}, {
+    "employee": "Barack Obama",
+    "state": "FL",
+    "eventDate": "2021-03-01",
+    "amount": 131
+}, {
+    "employee": "Donald J. Trump",
+    "state": "SC",
+    "eventDate": "2020-03-01",
+    "amount": 18
+}, {
+    "employee": "Donald J. Trump",
+    "state": "GA",
+    "eventDate": "2020-03-01",
+    "amount": 68
+}, {
+    "employee": "Donald J. Trump",
+    "state": "NC",
+    "eventDate": "2020-05-01",
+    "amount": 83
+}, {
+    "employee": "Donald J. Trump",
+    "state": "AL",
+    "eventDate": "2021-04-01",
+    "amount": 267
+}, {
+    "employee": "Donald J. Trump",
+    "state": "TN",
+    "eventDate": "2021-03-01",
+    "amount": 191
+}, {
+    "employee": "Donald J. Trump",
+    "state": "FL",
+    "eventDate": "2021-08-01",
+    "amount": 204
+}, {
+    "employee": "Joseph R. Biden",
+    "state": "SC",
+    "eventDate": "2021-04-01",
+    "amount": 4
+}, {
+    "employee": "Joseph R. Biden",
+    "state": "GA",
+    "eventDate": "2020-08-01",
+    "amount": 176
+}, {
+    "employee": "Joseph R. Biden",
+    "state": "NC",
+    "eventDate": "2022-02-01",
+    "amount": 166
+}, {
+    "employee": "Joseph R. Biden",
+    "state": "AL",
+    "eventDate": "2020-08-01",
+    "amount": 293
+}, {
+    "employee": "Joseph R. Biden",
+    "state": "TN",
+    "eventDate": "2022-05-01",
+    "amount": 148
+}, {
+    "employee": "Joseph R. Biden",
+    "state": "FL",
+    "eventDate": "2020-09-01",
+    "amount": 102
+}]
